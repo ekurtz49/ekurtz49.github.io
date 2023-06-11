@@ -13,6 +13,9 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
+    - text: partyvoter
+      icon: far fa-chart-bar
+      href: https://marekjozsef.shinyapps.io/partyvoter/
  #   - text: "Blog"
 #      icon: fa-rss
  #     href: https://ekurtz49.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
