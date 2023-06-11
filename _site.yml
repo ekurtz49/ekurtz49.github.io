@@ -17,13 +17,19 @@ navbar:
 #      icon: fa-rss
  #     href: https://ekurtz49.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
+    - #text: "Contact me"
       icon: fa-envelope-o
       href: mailto:kurtz217@umn.edu                    # CHANGE HERE 
-    - text: "GitHub"
+    - #text: "GitHub"
       icon: fa-github
-      href: https://github.umn.edu/kurtz217       # CHANGE HERE 
+      href: https://github.umn.edu/kurtz217       # CHANGE HERE
+   # - text: "Google Scholar""
+      #icon: ai-google-scholar ai
+      #href: https://scholar.google.com/citations?user=xzd7KqwAAAAJ&hl=en
+    - #text: "Twitter"
+      icon: fa-twitter fa
+      href: https://twitter.com/marekjozsef
 output:
   html_document:
-    theme: cosmo
+    theme: cerulean
     highlight: textmate
