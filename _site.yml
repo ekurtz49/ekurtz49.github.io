@@ -34,5 +34,5 @@ navbar:
       href: https://twitter.com/marekjozsef
 output:
   html_document:
-    theme: cerulean
+    theme: flatly
     highlight: textmate

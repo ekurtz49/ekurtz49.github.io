@@ -3,8 +3,8 @@ title: "Emily Lucinda Kurtz"
 ---
 
 
-<div style= "float:left;position: relative; right: 30px; top: -7px;">
-```{r echo=FALSE, out.width="500px", fig.align='left'}
+<div style= "float:left;position: relative; right: 30px; top: 0px;">
+```{r echo=FALSE, out.width="300px", fig.align='left'}
 
 knitr::include_graphics("kurtzpicture.jpeg") 
 
