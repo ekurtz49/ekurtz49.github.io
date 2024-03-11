@@ -2,4 +2,7 @@
 title: "Research"
 ---
 
-hi
+<p align="center">
+  <img src="Manufacturing Job Clusters.png"></p>
+  
+<p align="center">research</p>

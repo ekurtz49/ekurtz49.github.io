@@ -1,7 +1,7 @@
-name: "Emily Kurtz"                                # CHANGE HERE 
+name: "Emily Lucinda Kurtz"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Emily Kurtz"                             # CHANGE HERE 
+  title: "Emily Lucinda Kurtz"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -13,6 +13,9 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
+    - text: "Teaching"
+      icon: fa-solid fa-chalkboard
+      href: teaching.html
     - text: partyvoter
       icon: far fa-chart-bar
       href: https://marekjozsef.shinyapps.io/partyvoter/
@@ -34,5 +37,5 @@ navbar:
       href: https://twitter.com/marekjozsef
 output:
   html_document:
-    theme: flatly
+    theme: yeti
     highlight: textmate
