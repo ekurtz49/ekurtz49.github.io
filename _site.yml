@@ -16,9 +16,9 @@ navbar:
     - text: "Teaching"
       icon: fa-solid fa-chalkboard
       href: teaching.html
-    - text: partyvoter
-      icon: far fa-chart-bar
-      href: https://marekjozsef.shinyapps.io/partyvoter/
+#    - text: partyvoter
+#      icon: far fa-chart-bar
+#      href: https://marekjozsef.shinyapps.io/partyvoter/
  #   - text: "Blog"
 #      icon: fa-rss
  #     href: https://ekurtz49.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
@@ -32,9 +32,6 @@ navbar:
     - #text: "Google Scholar""
       icon: fa-graduation-cap
       href: https://scholar.google.com/citations?user=xzd7KqwAAAAJ&hl=en
-    - #text: "Twitter"
-      icon: fa-twitter fa
-      href: https://twitter.com/marekjozsef
 output:
   html_document:
     theme: yeti
